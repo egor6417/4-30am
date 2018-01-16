@@ -1,5 +1,9 @@
 .nav a {
 		display: inline;
-		color:black;
+		color:lime;
 		position: center;
 		text-align: center;}												
+html, body {
+	background-color: #F8FAF6 ;
+	text-color: black;
+	}
