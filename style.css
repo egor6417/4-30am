@@ -1,3 +1,5 @@
-.nav {
-      display: inline;
-    }
+.nav a {
+		display: inline;
+		color:black;
+		position: center;
+		text-align: center;}												
