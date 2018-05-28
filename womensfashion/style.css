@@ -1,9 +1,18 @@
 .nav a {
-		display: inline;
 		color:black;
 		position: center;
-		text-align: center;}												
+		text-align: center;}				
+									
 html, body {
 	background-color: #F8FAF6 ;
 	text-color: black;
 	}
+
+.nav ul {
+		list-style-type: none;
+	    margin: 0;
+		padding: 0;}
+
+.nav li {
+    display: inline;
+}
